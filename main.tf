@@ -34,4 +34,4 @@ resource "vsphere_virtual_machine" "vm1" {
     size  = 20
   }
 }
-  
+
