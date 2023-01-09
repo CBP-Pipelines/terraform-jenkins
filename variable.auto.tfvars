@@ -1,0 +1,6 @@
+password = "Dev!ops12"
+user = "Devops@vsphere.local"
+server  = "192.168.5.229"
+datacenter_name = "dc"
+resource_pool_name= "Devops-rp"
+network_interface = "VM Network 2"
